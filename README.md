@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋 I'm Lokesh Kumar
 
-<!--
-**LOKesh878/LOKesh878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer (React | Node | MongoDB)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- I build web applications
+- I am learning MERN Stack
+- I like backend + frontend both
+
+---
+
+### 🛠 Skills
+- React
+- Node.js
+- Express
+- MongoDB
+- JavaScript
+- Git & GitHub
+
+---
+
+### 📂 My Projects
+- MERN Todo App (Login + Register)
+- Auth System using JWT
+- REST API with MongoDB
+
+---
+
+### 📫 Contact
+- Email: yourmail@gmail.com
